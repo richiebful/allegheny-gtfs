@@ -26,4 +26,7 @@ for rte in routes:
 refined_trips = []
 for trip in trips:
     trip_node = overpass_tree.xpath("//relation[@id=$trip_id]", trip_id=trip["ref"])[0]
-    print(trip_node)
+    trip["origin"] = trip_node.xpath("tag[@k='from']/@v")[0]
+    trip["destination"] = trip_node.xpath("tag[@k='to']/@v")[0]
+    print(trip)
+    exit(0)                                                                                                   
