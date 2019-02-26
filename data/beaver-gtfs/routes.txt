@@ -1,0 +1,6 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color
+24e635f3-9343-488f-8cea-0f1064478c02,66f4017b-3812-447e-a89b-e69f9ae8089e,"11","Beaver/Vanport","Beaver/Vanport",3,800080,FFFFFF
+0fb47010-a2f1-47b9-a193-2c1dbeb24d00,66f4017b-3812-447e-a89b-e69f9ae8089e,"1","Ohio River Blvd","Chippewa /Pittsburgh",3,0000FF,FFFFFF
+18396817-ef00-403d-bf10-847cf13b817f,66f4017b-3812-447e-a89b-e69f9ae8089e,"4","Express 376","Express Chippewa /Pittsburgh",3,ADFF2F,000000
+44588fe2-3787-43fe-82a0-91529b5d7915,66f4017b-3812-447e-a89b-e69f9ae8089e,"3","Express 65","Express Rochester/Pittsburgh",3,006400,FFFFFF
+2e7a38bd-bb4a-4614-b399-5dde04f502b5,66f4017b-3812-447e-a89b-e69f9ae8089e,"2","Local/Beaver Valley Mall","Rochester t/ Aliquippa / Ambridge",3,FFA500,000000

@@ -1,0 +1,282 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,location_type
+98ecb258-2b05-4371-a1a8-e0692df6db50,"7075","697 State Ave (Drug & Alcohol Services)","""Drug & Alcohol Services""",40.6791782783972,-80.3394845330408,0
+9551f985-a578-4d5d-a59f-cbb6e3160d9e,"7071","State Ave at Dravo St ","""opp. Van Buren Homes""",40.6850979140459,-80.3279403047526,0
+34834d60-936d-4e58-abe0-629b25733769,"7069","State Ave at Locust St","""Hostess Bakery Outlet""",40.6863169781159,-80.3252996698201,0
+a889ae0d-b1ef-46bf-aaaf-6deb5f351112,"7067","State Ave at Tamaqui Dr","""Tamaqui Village""",40.6872517280132,-80.3232410742784,0
+40fe5890-112c-449c-9db5-5b915b0ff475,"7063","3rd St at Chestnut St ","""Subway""",40.6887537651511,-80.3198950183329,0
+f976e3e3-df01-4f9d-880b-68cfd919cd70,"7061","3rd St at Walnut St ","""Janney/Montgomery/Scott Offices""",40.6906836146524,-80.3155431339468,0
+c0b3de7c-94fc-4a94-ab70-a31ad8f3cef7,"7059","3rd St at Buffalo St ","""Sunaco/A-Plus Mini Mart""",40.6921628530123,-80.3122225589885,0
+e2df7f16-4b72-499f-a10b-0f1d3edfd1c5,"7055","3rd St at Commerce St","""opp. Beaver County Courthouse Parking Garage""",40.693678301196,-80.3085988943934,0
+719ed5e8-cc47-4b94-8848-a3353efa2133,"7015","3rd St at Insurance St ","""Bus Shelter (park)""",40.6947565492842,-80.3060011748076,0
+df4d7e2b-6914-4b0e-addc-b3505f5ab251,"7011","3rd St at Beaver St ","""Snitger's""",40.6963873324625,-80.3019349456987,0
+dbed9f40-9007-418e-a948-2b2fa329352b,"7007","3rd St at Wilson Ave ","""""",40.6973596332884,-80.2995544850561,0
+2ce2e570-fce1-4bb5-a818-65cf6d0f8a19,"7003","3rd St at East End Ave ","""opp. Sts. Peter and Paul Church Rectory""",40.6981307684261,-80.2976702331108,0
+570c8a32-4905-4bf5-849f-10795262a17c,"100","Rochester Transportation Center","""BCTA """,40.7012555421147,-80.2845649590829,0
+18e7d47e-9013-49bc-9f7d-5939391e2029,"2004","9th St at Indiana Ave ","""Carl's Auto Service""",40.6932303722638,-80.2810418773318,0
+c95fd360-3123-49f2-903a-6466dfff53fa,"2008","Pennsylvania Ave at 8th St  ","""""",40.6913890356653,-80.2824004162789,0
+dc4ccc24-8b87-406a-8826-481c7d0658c8,"2012","Pennsylvania Ave at 6th St ","""Monaca Library""",40.6912629718341,-80.2841277589874,0
+be87d547-eae0-43c3-b6fe-72268424c0d4,"2020","Wal-Mart Plaza","""Monaca Wal-Mart Plaza """,40.679041,-80.30198,0
+ecf685db-618b-422f-b64b-b774a02643db,"2024","Township Market Place (Pier 1 Imports)","""Short St/Wagner Road- Pier 1 Imports""",40.682382,-80.302687,0
+e71f3388-e2c9-422e-9d4f-5e783183c159,"2028","Township Market Place (opp. Texas Roadhouse)","""opp. Texas Roadhouse (SB)""",40.6814420629407,-80.3065496865839,0
+1610c200-3490-4f41-b3e7-7fa1e0e78fee,"2036","Wagner Road ( Kohl's)","""Kohl's""",40.6804255056635,-80.3097267633514,0
+fd77daa5-db01-45a9-8286-0e3abd349c7a,"2039","Wagner Road (Target)","""access road leading to  Target""",40.6800567019019,-80.3108935243424,0
+35153bd1-8010-4382-843e-0ce524f41417,"2044","Beaver Valley Mall (Food Court)","""Food Court Entrance""",40.6748800381947,-80.3126771934436,0
+e934cda0-fd33-4d64-9d55-b6d9f015307e,"2048","Brodhead Rd at Oak Ln","""just past Broadhead Village""",40.6654064753894,-80.3150294908899,0
+f180e370-cff0-458d-8dc4-02bc301c917f,"2052","3671 Brodhead Rd","""Center Township Elderly Apartments""",40.6646514335067,-80.3157000431836,0
+c1a225bd-cf13-457a-84c1-c93f3aab4103,"2056","Brodhead Rd opp. Lincoln Dr","""Snowy White Dry Cleaners""",40.6614381469153,-80.3166589329636,0
+87f3ebe2-7f3d-45a4-ab03-e1bab13d0f67,"2060","Brodhead Rd at Bonanni Dr ","""opp. 3572 Brodhead-Professional Bldg""",40.6579445694652,-80.3163223157121,0
+aba40e88-6beb-41e5-91e5-150f56174f83,"2064","3531 Brodhead Rd ","""""",40.6549565884445,-80.3151729890807,0
+1ca2295f-fe35-4d9b-b9a3-bbb0d4b26120,"2068","College Dr at Poplar Ave","""4-way stop sign""",40.6561126205988,-80.3091983681439,0
+451919af-972c-424a-bdaf-14e270e95ac8,"2070","CCBC (Middle Lot)","""Bus Shelter- Community College of Beaver County""",40.655777344452,-80.3069265369729,0
+633beb31-7920-4c29-a908-3c752add6d59,"2074","Brodhead Rd opp. Village Shops  ","""Ken Statt's Hair Styling """,40.6507870942823,-80.3123781271206,0
+63941b13-6a2d-4e61-a8b1-cf72a9779500,"2078","Brodhead Rd at Center Grange Rd ","""Gelous Nails""",40.6481075673167,-80.3107312506873,0
+5564ce1a-db5c-433e-8d9a-50124da9101c,"2082","Brodhead Rd at Main St  ","""Center VFD #1""",40.6459510711402,-80.3111496753186,0
+7caeae85-a031-41e3-bd4b-9bd89f34286e,"2086","Brodhead Rd at Charity St ","""Apartment Complex""",40.6420122469671,-80.31038122239,0
+622f46c2-8468-4cdc-9a86-d95d40f2ee5e,"200","Expressway Travel Center","""BCTA Expressway Travel Center""",40.6334251542941,-80.3185029517712,0
+746fbfda-c118-47da-8fc0-880f27847a9d,"2090","Brodhead Rd opp. Ridgeview Dr   ","""opp. Vista Plaza  """,40.6292167680989,-80.3100110775239,0
+cf74b5e8-c71f-476a-b9d8-ffcffb327dfe,"2094","Brodhead Rd at Ivy Ln ","""opp. Lombardo's Market""",40.6271206216288,-80.3064571503673,0
+f9598d3e-2ec7-4b02-b506-41ca3edde2e5,"2098","Brodhead Rd opp. Hoover Blvd","""opp. bus stop (leaning)""",40.623317249019,-80.2998951256213,0
+c5efef9b-a1c2-4631-9dac-d3a573ea6c40,"2102","Brodhead Rd at Mt Carmel Drive","""""",40.6198075783138,-80.295287090259,0
+3543b2c0-7898-4f3c-89e4-2ecf6075be56,"2106","Brodhead Rd at Hospital Dr ","""One Hospital Drive Building""",40.612198150885,-80.284320878048,0
+22f21679-cc9c-4b20-b9ef-c37c33103d07,"2110","Brodhead Rd at Admiral St (Wendy's)","""Wendy's""",40.6096285944956,-80.2833043207708,0
+73a7192a-1d52-4dce-b870-804b22e44064,"2114","Mill St at Golf Course Rd ","""Casino Travel""",40.6065789226639,-80.2865001730025,0
+1ff84607-7c69-47a2-8fcf-a81138705da9,"2118","Mill St at Spring St ","""New Life Presbyterian Church""",40.6022283793824,-80.2926920528824,0
+cd27b6e3-15fd-40b8-a05d-d61b58ff0569,"2120","Green Garden Plaza (Sally's Beauty)","",40.5977464078514,-80.3048759880588,0
+f08f3e6d-1a7b-45a0-a953-f90a363608d9,"2117","Mill St at Guy St ","""Wildwood Chapel sign""",40.6021854640356,-80.2926866884641,0
+e83eb6cc-49a9-4ee0-b3fc-43295eb1d10f,"2113","Mill St opp. Golf Course Rd","""Fischer Financial""",40.6065923337097,-80.2864143423089,0
+6c5da896-927e-41f8-8ca4-613b38fe9126,"2130","Brodhead Rd at Sheffield Rd ","""Pizza Hut""",40.6062852207592,-80.2818250824109,0
+75a11fa1-9a0c-4bf1-bcc8-1f9f4f1942d7,"2133","Main St at Brodhead Rd ","""Auto Zone""",40.604101902491,-80.280085669761,0
+a7e1acad-3eb7-4103-a8b0-e1167bfdc5c3,"2137","Main St at 21st St ","""Bureau of Workers' Compensation""",40.6048475566415,-80.2769796715367,0
+599cb313-92b2-42b9-9062-4646891080e5,"2141","20th St at Main St","""Friendly Federal Credit Union""",40.6052981677829,-80.2751986846446,0
+f4bcb7a0-aa7b-4396-9ba8-13ef4279fc7a,"2145","Tyler St at Grand Ave","""""",40.6111882991307,-80.2748808428574,0
+5a71c220-b9f0-4c45-8c2d-a2c92da10e9d,"2150","Tyler St at Warnock St ","""opp. 1704 Tyler St""",40.6119084722941,-80.2720900042111,0
+360d1fcc-804e-448c-8ac4-9f2b1e91ec30,"2153","Tyler St at Upland St ","""""",40.6132710345549,-80.2648265817658,0
+492025e5-b23a-419c-b9cb-5b2739991deb,"2158","Tyler St at Waugaman St ","""opp. Housing Authority Building """,40.6162603566802,-80.2643464663235,0
+cae86d81-6f67-46cd-95a2-95be0fa254ec,"2160","Bethel Lane at Wykes St","""opp. Bethel Missionary Baptist Church""",40.620892531925,-80.2574116145022,0
+3bc26274-d32d-4cf4-9de8-2c8ace55b412,"2162","Monaca Rd opp. 6th Ave","""Bench and garbage can- No Bus Stop Sign""",40.6193878125779,-80.2559846792212,0
+b8ed3cd7-22e9-4253-bb81-0b034c0e5e5b,"2166","Franklin Ave opp. Pine St","""former auto detail shop""",40.6138530739458,-80.2577790771591,0
+1e7a524f-e136-4e2a-bb79-814663169d1f,"2170","Franklin Ave  (Klenovich's)","""Klenovich's Printing Shop""",40.6126004822612,-80.2530329080244,0
+58510c72-d551-4ae5-b5ff-23cf11b3215e,"2174","Franklin Ave at Engle St ","""Municipal Parking Lot""",40.6144941219386,-80.2499094754404,0
+c0f11d91-956b-4260-b66b-ead56839c69e,"2178","Franklin Ave (opp. Mazie's Kitchen)","""Opposite Mazie's Kitchen""",40.6157869467608,-80.2480815498878,0
+865bd2f8-0a67-42d0-a057-be3e2d1738b9,"2182","Franklin Ave  (Municipal Parking Lot)","""Municipal Pkg Lot between School and Kiehl Streets""",40.618068165664,-80.245522722335,0
+311702a8-36a3-4a4f-803b-38d7ab9afe8f,"2186","11th St at Maplewood Ave","""Bohn-Matich Funeral Home""",40.592813825179,-80.2315095205015,0
+151b67d4-36a5-4f86-ae76-61b9e8ae1d5e,"300","11th St at Ambridge Park and Ride Lot","""11th Street- Park &  Ride""",40.59242333,-80.22811174,0
+81f54ffe-17ad-4ad9-9b7a-2af25561860b,"1345","East Busway (Stop D)","""Bus Shelter (Penn Station- Stop D)""",40.4444648590365,-79.9912694091361,0
+37b28f59-0237-4c85-82a5-7b65e6c20265,"1341","Liberty Ave opp. Smithfield St","""Former Newstand (Comic Store)""",40.4433316256602,-79.9964125452288,0
+2c37e958-6e0b-4abf-9807-e8c552ea8bbf,"1335","Liberty Ave at 7th St","""Subway Restaurant """,40.4424920941884,-79.999746531233,0
+45a977a9-c5d1-4398-a96f-9c4449b0dcba,"1307","Ohio River Blvd opp. McKees Rocks Bridge","""Bus Shelter """,40.4789433168735,-80.0430896903926,0
+9f91f99b-357c-4420-b43c-e7b7357e4b5f,"1303","Ohio River Blvd at Kendall Ave ","""Tire Store""",40.4862898878032,-80.0539740952238,0
+d96c8546-405c-417a-8dc3-b578311f9bca,"1300","Ohio River Blvd at Riverview Ave ","""Sunoco Gas Station""",40.4915684754591,-80.0611946023223,0
+1a2ffa15-129b-4e37-a4c0-416734c490ea,"1296","Ohio River Blvd at Elizabeth St ","""opp. Rusty Dory Pub""",40.4957768616543,-80.0669492821067,0
+9ee9d81b-23c0-425d-98f3-db157a0077de,"1291","Ohio River Blvd at Fisk St","""Port Authority Bus Stop""",40.5014510751635,-80.0750830814292,0
+552c81c5-6f78-4166-a88c-97a148b7dcc7,"1287","Ohio River Blvd at Camp Horne Rd   ","""near BP- Earl Scheib """,40.510283589976,-80.0945344623646,0
+e21082f6-9d07-4263-95b9-047d3042e810,"1283","Ohio River Blvd at Allegheny Ave ","""opp. Holy Family Institute""",40.5114557153854,-80.1009999275804,0
+d5cfd688-d0bf-43e2-9151-5dfae3ffa724,"1279","Ohio River Blvd at Hazelwood St ","""""",40.5121678419213,-80.1038698913974,0
+6d9fe959-c0d2-48f4-8ff3-403b933a8391,"1275","Ohio River Blvd at Boundary St ","""Critmore Professional Building   """,40.532820852567,-80.1766100631124,0
+7a143e4c-1c5d-4124-bb2a-22db4e35e04c,"1271","Ohio River Blvd at Chestnut St ","""Low Vision Products""",40.5359094164318,-80.1830420007135,0
+086a6e02-dc66-46b5-ab4b-2c856a6df1b8,"1267","Ohio River Blvd at Walnut St ","""opp. Sewickley Landing Apartments""",40.5373604915953,-80.186050098303,0
+61f412c8-44e8-4d40-b2ca-0b39bf2ed6c6,"1263","Ohio River Blvd at Hazel Ln ","""Sewickley Academy Athletic Field""",40.5439386095964,-80.1926885660105,0
+f542b98f-f890-4ea8-a613-d2c113ad1b8c,"1261","Ohio River Blvd at Quaker Rd ","""opp. BP Station""",40.5457263020114,-80.1940269883887,0
+7bd88ef3-b859-4124-83b3-e31024a009ee,"1255","Ohio River Blvd at Quaker Village Shopping Ctr","""drive after Wendy's""",40.5579397414887,-80.2047491195648,0
+df8f998d-63cb-4562-999d-8cae68105b45,"1251","Ohio River Blvd at Broad St","""New Overpass""",40.5679014663638,-80.2131752796874,0
+2de07112-eac1-4001-a7d7-bd3a040dfece,"1247","Ohio River Blvd at Cross St.","""Adecco/Frosty's""",40.5767245934441,-80.2225133909293,0
+3d9f720c-c513-4359-ab2a-ec5c2f1c7ee1,"1243","4th St at Park Rd ","""opp. Best Hardware""",40.5829567064617,-80.2268961207209,0
+323187f8-1fa2-4030-b7a9-deefce182152,"1239","4th St at Merchant St ","""Parking Lot""",40.5837050428215,-80.2252009645224,0
+9691bd59-f095-4b4d-bbab-d25b92424ede,"1235","Merchant St at 5th St ","""ESB Bank""",40.585326,-80.226424,0
+9a528b52-527b-47fa-9bde-2bcee7c5b99b,"1233","720 Merchant St","""Alexander's""",40.5884351187012,-80.2287200229597,0
+bb3a67e6-79a2-496e-8d11-611878b0cb6e,"1231","810 Merchant St","""Stanley Flower Shop""",40.5894905680114,-80.229307426769,0
+de696312-ceb7-42e1-b5b9-4403aeba977a,"1227","Merchant St at 10th St ","""opp. Strano Sales""",40.5916148776778,-80.2300141888865,0
+4f331977-c5cb-487f-9b1c-bca49bd5618e,"1224","Merchant St at 11th St ","""Bus Shelter (side of Advance Auto Parts)""",40.5927829797735,-80.2304245668903,0
+7e46f3a5-557f-4871-b109-d10298e14bc1,"1220","11th St opp. Ambridge Police Dept","""opp. Ambridge Police Dept.""",40.5935635026433,-80.2276873724274,0
+1b482a0c-2ad8-43ce-8af6-1459769d45a4,"1215","Duss Ave at 12th St","""Shear Style""",40.5952559766326,-80.2261652187208,0
+77a8dbbc-8a46-43dd-aee8-301bfe52150f,"1211","Duss Ave at 14th St","""opp. D&J's""",40.5966855941227,-80.2261880174987,0
+9cb3613f-ee95-4fee-9431-e1b82296b1e3,"1207","Duss Ave at 17th St ","""""",40.5998157322297,-80.226206792963,0
+4692acd4-04fe-4898-a774-6ab819066544,"1203","Duss Ave at 19th St ","""""",40.6011568368171,-80.2262309328455,0
+bf21216b-655c-4751-8688-d4ae0bd9c4ca,"1199","Duss Ave at 23rd St ","""Szymoniak Auto Repair""",40.6044090154415,-80.226261778251,0
+d5ae7e30-3c5b-442d-a648-9a6afbb9b05a,"1195","Duss Ave at 25th St","""Guzyk Supply""",40.606074667339,-80.2262550727281,0
+c6b34e6e-1403-4ac3-b586-a8734fe8a756,"1191","Duss Ave at Harmony Rd ","""Ambridge Auto Sales (for sale)""",40.609259790734,-80.2262738481923,0
+2702382f-97ad-4b3d-aa1d-ca5bf33aa66b,"1187","Duss Ave at Keystone Rd ","""Amerigas""",40.6126621730722,-80.2263248101666,0
+e5575d09-6dba-4ff4-97c7-af7516758a34,"1183","2932 Duss Ave","""Diamond Head Trucking/ MSI Hospitality""",40.6155039736929,-80.2263543144676,0
+9fcea04e-719c-4e5d-9f9d-3fd3142f31c3,"1179","Duss Ave at Legionville Hollow Rd","""Rhodes Transit""",40.6199631464459,-80.2264119819648,0
+332caadf-7a27-4c4b-8bb9-1dfbd1963ae4,"1175","Duss Ave at Dearborn St ","""Nova Cleaning""",40.6254670396725,-80.22631408133,0
+0990fb93-4aec-4cc9-b2eb-86bb8d4c7ef2,"1173","State St at Harmony Rd","""""",40.6307469684331,-80.2266439930584,0
+2ea971ad-6a06-4fec-8ee6-5f4c78806465,"1171","State St at Johnson Ave ","""""",40.6329074879234,-80.2271455661741,0
+500d5f94-b03c-4b25-9638-8cf4b65da995,"1167","State St at Moore Ave","""Subway""",40.6348869582943,-80.2281581001376,0
+04b1c553-0b27-40a0-b195-c71738de5521,"1163","State St at Dippold Ave ","""opp. Blazier Brothers Auto""",40.6371185563277,-80.2297258514002,0
+f995ae85-39f7-4df3-acb0-778b0b18787e,"1161","State St at Schiller St.","""""",40.6408374393486,-80.2320177991401,0
+e2db5783-f716-43e9-8c86-c50e65a9f5dd,"1154","Northern Lights Shopping Center","""Bus Shelters (2)""",40.6557424757327,-80.2365426860179,0
+38bbfcf2-c90e-4c24-97e4-69cbb37dde84,"1149","1st Ave at 9th St","""opp. Arby's""",40.6584756468818,-80.2384752177284,0
+e6594ae0-fc56-49db-85e1-fd22d2229403,"1145","3rd Ave at Harvey Run Rd","""near Freedom Bulldogs Sign   """,40.6816740740343,-80.2504834682038,0
+513f554f-341e-4d23-a850-cae10c3a3e27,"1141","3rd Ave at 8th St ","""side of Freedom Lift Station""",40.6853942981597,-80.2543391438925,0
+1f566653-1871-4d58-9713-31829ccbd1e2,"1137","3rd Ave at 5th St  ","""Freedom United Methodist Church""",40.6884922497566,-80.2572573874746,0
+4bca0fc3-e288-4e39-98db-16d46ffffc62,"1135","Ohio River Blvd at East Rochester Plaza  ","""Pizza Hut""",40.6985183476519,-80.2721114618845,0
+08cf656f-ea54-437e-bbf3-f3ae0e1e70dd,"1131","Brighton Ave at New York Ave","""lot next to Shoe Repair""",40.7002041161182,-80.2806502747924,0
+6a092e81-f6c9-45ac-949b-e5b8ec97413a,"1127","Brighton Ave at Jefferson St ","""Rite Aid""",40.7024451018837,-80.2868220381035,0
+68b7cd79-7ee7-41e6-af4d-ab635c8c288a,"1123","Delaware Ave at Monroe St   ","""opp. Gulf Station/Side of Domino's""",40.7024370552562,-80.289547162625,0
+ba96e2d2-9057-436d-8b79-67ccc49f526c,"1119","Delaware Ave at Webster St","""near Rome Monuments""",40.7043762924895,-80.2909325236638,0
+eafd9497-ee28-4ab4-8a52-8c7c5704d24c,"1115","3rd Ave at YMCA Dr","""Sign post opp. YMCA""",40.7165481577246,-80.2990421831037,0
+f8f52882-dde7-44aa-a5ae-5cbc7d93e22a,"1111","3rd Ave at Brightwood Manor ","""opp. Rental Office Sign""",40.7211333943089,-80.302047598484,0
+8cdd2bb6-4461-440f-adc6-9a28b1e9175a,"1107","3rd Ave at 16th St ","""opp. Heritage Valley Medical Group""",40.7264079586511,-80.3069855455748,0
+43765c27-ff3c-44e2-969d-6871ef87738b,"1099","3rd Ave at 12th St ","""Christ Episcopal Church""",40.7312976259766,-80.3105515426726,0
+bb768c32-5796-495f-97a5-7cc415360590,"1095","3rd Ave at 10th St ","""opp. 1000 3rd Ave""",40.7332221110596,-80.3123982436894,0
+be4b38f0-2948-4181-a486-5fac17f96149,"1091","3rd Ave at 9th St ","""Phillip's Eye Care""",40.7341662486891,-80.313335675796,0
+ee0d627f-eae8-4c3b-8412-1b55060adf30,"1083","3rd Ave at 6th St ","""opp. New Brighton Municipal Building""",40.7369262419299,-80.3160567770038,0
+783d097a-02d2-4bce-878a-4f36ff7dbf0e,"1079","7th Ave at 4th St ","""Hamilton Tool & Supply""",40.7457252291277,-80.3196844649127,0
+6bc78d8d-cc2c-4877-b839-5d5984348e46,"1075","7th Ave at 6th St ","""opp. Harley-Davidson Shop""",40.7474834172418,-80.3196321618338,0
+fafc89e1-7f03-47ae-bc51-3dc0a408dffb,"1071","7th Ave at 10th St","""Beaver Falls Plaza """,40.7511768192754,-80.3195369434081,0
+c39a478c-b72a-4169-ab35-38520188778a,"1063","7th Ave at 13th St ","""Primary Care""",40.7540776284979,-80.3194323372502,0
+7610f894-ddf0-4426-b3b7-a56034edcbd2,"1060","7th Ave at 17th St ","""Allstate (opp. McDonald's)""",40.7579493974417,-80.3194041740539,0
+b1eceb84-9890-4f40-afea-945737fd26d8,"1055","7th Ave at 20th St","""opp. Salvation Army Thrift Store""",40.7605377292954,-80.3192915212686,0
+b50fdc2a-385d-4c3c-a99b-baed86d3e673,"1051","7th Ave at 22nd St ","""""",40.7622248388663,-80.3192083727842,0
+ffbb65b3-fae1-47b6-b8be-cf215e693b93,"1047","7th Ave at 25th St ","""""",40.7650545695457,-80.3191359531364,0
+c8c5945e-85e3-4054-83b1-6edd04a24495,"1043","4th Ave opp. 33rd St","""Geneva College Degree Completion Program""",40.7745750710115,-80.3239062621538,0
+bf464216-6296-495c-8153-46d7c69ed774,"1039","4th Ave at 36th St ","""College Hill Church of the Nazerene""",40.7772277758853,-80.324301888007,0
+da2a6610-fd2a-4d91-850b-592cae548bed,"1035","4th Ave at 39th St","""""",40.7795814144362,-80.3252755299375,0
+484a1ff8-6342-4400-ab1d-1f8cd5b8239e,"1031","4th Ave opp. 43rd St","""Sports Car Gallery""",40.7828443218973,-80.3279577391122,0
+60c7f09b-350c-4cea-8951-3602df67d4eb,"1027","4th Ave opp. 45th St","""""",40.7852033248665,-80.3297977346061,0
+e11bde8d-a375-4652-8c79-dc7a6cca5f25,"1023","4th Ave opp. 47th St","""Former Beaver Falls Wave Pool""",40.7866302601475,-80.3312058944229,0
+ac5e19e7-032d-4b91-944a-32c41125eb61,"1019","Wallace Run Rd at Shenango Rd ","""Shenango Motors""",40.799899148935,-80.3764212355865,0
+7f292b0c-7c42-468b-ae67-a9de4d4fa716,"1012","Chippewa Center (Dunham's)","",40.7745790943252,-80.3734734877034,0
+a1207db0-30fc-4e6e-8b99-bb43cd404ef3,"1008","Chippewa Central Square (Giant Eagle) ","""Side of Giant Eagle""",40.7767288849788,-80.3785898017043,0
+f19eb0e1-06e1-485c-9535-3703d15e7381,"1000","Wal-Mart Supercenter ","""Chippewa Wal-Mart Supercenter - Food Center Door""",40.7816721964879,-80.3831790616023,0
+2fefe3ff-4fc4-4ac0-a360-aad79cd3f0bf,"7004","3rd St at East End Ave ","""Sts. Peter and Paul Church""",40.6981951414463,-80.2977493582814,0
+c2b7799c-020a-4ff7-8a96-0d0c3878b9d9,"7008","3rd St at Wilson Ave ","""The Todd House""",40.6973596332884,-80.2997583329534,0
+01edcf8d-726a-4289-be2b-cb125958143c,"7012","3rd St at Beaver St ","""Citizens Bank""",40.6966139791378,-80.3015580953096,0
+f7caa094-1469-49fa-83f4-baa7f92cbac2,"7016","3rd St at Insurance St ","""Bus Shelter (Park)""",40.6947753247485,-80.3060789588737,0
+66e6a0b8-4366-4cd3-b267-ee8f74ec90f6,"7020","Market St at Turnpike St (Stop 1)","""Law Offices""",40.6951575395559,-80.307849216929,0
+cfa94d05-95cd-47bf-8cca-24b929ba28c1,"7024","Market St at 5th St  (Stop 1)","""Jefferson Trace Apartments""",40.6980020223857,-80.3097965007899,0
+411b4f4a-0191-40db-a742-fd3ea33df15c,"7028","Medical Center","""Entrance A- (Main Entrance)  """,40.7120795972395,-80.3241074278419,0
+f36d8b09-7cb1-44bd-a69e-cdcbfd049f3a,"7032","Friendship Circle (East)","""Friendship Commons (new building)""",40.7069994930625,-80.3221896482819,0
+ae4d3265-ad51-43b2-a53a-a105c3e9e4a3,"7036","Friendship Circle (Entrance)","""near Lifesteps Sign""",40.7055309835393,-80.3269452051488,0
+e9e6ba25-b843-4b53-a568-216b8d0d8420,"7040","Friendship Ridge","""Gazebo near Main Entrance""",40.7078765754626,-80.3276318506975,0
+b287de97-989a-4438-9acf-5b743b773f3c,"7044","Francis Farmer Apartments   ","""Main Entrance""",40.708489460259,-80.325767715321,0
+62a97e48-dbe2-4930-a4a4-fbc03d234ee6,"7048","Market St at 5th St (Stop 2)","""opp.  Jefferson Trace Apartments""",40.6979564248298,-80.3098890370064,0
+f7facd5a-576a-4be9-a3b8-e9ac07cc4d37,"7052","Market St at Turnpike St (Stop 2)","""opp. Law Offices""",40.6951629039742,-80.3079350476226,0
+0ea6de69-1292-4c12-82cc-10faf846a7e7,"7056","3rd St at Commerce St","""Beaver County Courthouse""",40.6937574263667,-80.308486241608,0
+2993f764-1c07-4dbf-919b-8841d434083b,"7060","3rd St at Buffalo St ","""opp. A-Plus Mini Mart""",40.6921266431884,-80.312568563972,0
+90411294-036f-4263-92f4-afa6d77d0dcb,"7064","State Ave at Walnut St ","""McDonald's""",40.6890233271732,-80.3193545531842,0
+fdd29db7-710b-441f-8f22-60a3d882586b,"7068","State Ave at Toy St ","""Housing Authority""",40.6867568604205,-80.3243997886419,0
+a5a38429-94e5-4d96-9978-1249e2acb382,"7072","State Ave at Dravo St ","""Van Buren Homes""",40.6851542404386,-80.3279832200994,0
+371023f0-0f93-4829-93cb-4e98ae9a379f,"7076","698 State Ave (opp. Drug & Alcohol Services)","""Wet Wheels Car Wash- Opposite Drug & Alcohol Services""",40.6793351876339,-80.3393866324059,0
+b05e5817-f395-4447-b334-ff04d4b84d37,"1020","Shenango Rd at Wallace Run Rd","""Primitive Methodist Church""",40.7998656213204,-80.3764306233186,0
+da06b28f-d400-4e95-9683-07e6624b0056,"1024","4th Ave at 47th St ","""Edgewater Inn""",40.7867013386906,-80.3313091594761,0
+2150568b-445f-4da0-8246-505bb4b853e7,"1028","4th Ave at 45th St ","""""",40.7849860659233,-80.3296596008336,0
+599538a5-4937-47df-8bf9-816a3b260520,"1032","4th Ave at 43rd St ","""Morado Dwellings""",40.7828537096294,-80.3279952900407,0
+37e1fc97-f2da-4922-a1e8-99eabcaf0cc1,"1036","4th Ave at 40th St ","""St Philomena Catholic Church""",40.7803190219593,-80.3259098724073,0
+40d3108e-756e-4aa6-8515-fd848ceea004,"1040","4th Ave at 36th St ","""side of Sheetz""",40.7772210703624,-80.3243327334126,0
+1f492a05-ae0e-4487-8e2a-b0ea9c76633c,"1044","4th Ave at 33rd St ","""College Hill Apartments""",40.7740600868499,-80.3238606645978,0
+173bc7fb-7d3c-4362-b2ab-9fcf1819e94c,"1048","7th Ave at 25th St ","""""",40.765059933964,-80.3193076145236,0
+94ff9240-7089-464a-b2f0-aa3a92cfb65f,"1052","7th Ave at 22nd St  ","""""",40.7621564425323,-80.3193719875438,0
+9a23dc15-aaf1-424f-9cba-24d1878e29d7,"1056","7th Ave at 21th St ","""opp. Lil Joe's""",40.7615100301212,-80.3193867396943,0
+dfa2661e-1835-416b-836b-0791ee22f1f5,"1059","7th Ave at 17th St ","""Wendy's""",40.7578649078527,-80.319374669753,0
+4b122be7-df26-4a29-a558-fbd903b67b83,"1064","7th Ave at 13th St ","""Carnegie Free Library""",40.7540655585566,-80.3195060980026,0
+24545c6f-9fc2-4491-a993-cfd8fdd480a0,"1072","7th Ave at 10th St","""Monro Muffler""",40.7509233505084,-80.3195932698007,0
+df7463ca-9f8c-43fb-b876-1d80c59047c4,"1076","7th Ave at 6th St ","""Harley-Davidson Shop""",40.7474096564895,-80.319667030553,0
+979ecea2-23d0-428b-a276-7e65e19cf21a,"1080","7th Ave at 4th St ","""opp. Hamilton Tool & Supply""",40.7457748499974,-80.3197300624686,0
+a970069d-eb77-4ace-91bd-66eff4991bd4,"1084","3rd Ave at 6th St ","""New Brighton Municipal Building""",40.7368833265831,-80.31605275369,0
+e726cb9c-2fef-4f44-9098-2a77234771cc,"1092","3rd Ave at 9th St ","""Wagner Flooring and Hardware""",40.7342306217093,-80.3134322353263,0
+ae6a004c-d2ee-4b07-bf4d-45eadb882e76,"1096","3rd Ave at 10th St ","""Hawkins Music Store Annex""",40.7332502742559,-80.3124693222326,0
+22486052-7159-4d76-aba9-d3e24dabacf9,"1100","3rd Ave at 12th St ","""Brighton Hot Dog Shoppe""",40.7313244480684,-80.3106078690653,0
+7726f528-c73f-4454-84e0-a241ae97d74e,"1108","3rd Ave at 16th St ","""Heritage Valley Medical Group""",40.7266265586988,-80.3071652535894,0
+2fc62c5e-ead6-47df-afab-753d5a708c8b,"1112","3rd Ave at Brightwood Manor ","""Near Rental Office Sign""",40.7210328114648,-80.30194701564,0
+d7a552aa-91c6-4cbe-bd2e-670a379eae04,"1116","3rd Ave at Sharon Rd","""Yesco Electrical Supply Store""",40.7174252401248,-80.2994029402377,0
+90af2cc8-8f49-4845-beea-339dea37c411,"1120","Delaware Ave opp. Webster St","""opp. Rome Monuments""",40.7043990912675,-80.2909982377886,0
+f246cc9d-bc56-4bba-8cee-3a5c26c63e91,"1124","Delaware Ave opp. Monroe St   ","""between Rivertowne and Gulf Gas Station   """,40.702463877348,-80.289608853436,0
+516215b2-ae6a-4668-b17c-746d62ae9396,"1128","Brighton Ave at Jefferson St ","""Former K-Mart""",40.7023203791571,-80.2866490356117,0
+87867905-c742-4ad9-ba7c-8ba818656598,"1132","Brighton Ave at Pleasant St ","""Parklet""",40.7002135038503,-80.2806757557795,0
+e124f5da-846d-4536-b17d-be956c19f0b4,"1138","3rd Ave opp. 5th St","""opp. Freedom United Methodist Church """,40.6885123663254,-80.2572976206122,0
+8841db0d-87f3-4b22-8703-c01ad8e7ac35,"1142","3rd Ave opp. 8th St","""Bus Shelter""",40.6854117325194,-80.2543793770301,0
+82aa3ba8-cfe9-4535-b4af-11bd6c65c49f,"1146","3rd Ave opp. Harvey Run Rd","""Bus Shelter""",40.6816606629885,-80.2505156547138,0
+7446d9ed-6a29-40b9-ab14-60ff402043b5,"1150","1st Ave at 9th St","""Arby's Fence""",40.6579834614982,-80.2380782507705,0
+c24c6a54-51b8-4da2-a431-c36d278d4c28,"1164","State St at Dippold Ave ","""Bus Shelter (Blazier Brothers Auto)""",40.6371440373149,-80.2297473090736,0
+3b2b3b52-9f19-4b89-945a-7f92055d6f0a,"1168","State St at Linmore Ave ","""Lasting Impressions Hair Salon""",40.6349835178246,-80.2282224731578,0
+81c31ec1-3058-489a-90a2-d981e3e6f0a0,"1172","State St at Johnson Ave ","""Bus Shelter (American Legion)""",40.6328779836224,-80.2271308140237,0
+d7e1705c-fb3b-49e8-a844-ba05c8da4a63,"1176","Duss Ave opp. Dearborn St","""opp. Used Car Lot""",40.6254321709533,-80.2263409034217,0
+534a5980-06d2-486e-99ff-89a17b820371,"1180","Duss Ave opp. Legionville Hollow Rd","""O'Neal Metals""",40.6199644875505,-80.2264428273703,0
+26d5a000-668a-44a8-b030-2b970a05bfc4,"1184","2973 Duss Ave ","""J. Brunner Recycling""",40.6155388424122,-80.2263784543501,0
+f96bdaa6-b97a-4512-b9af-0d238698fb48,"1188","Duss Ave opp. Keystone Rd","""opp. Amerigas/Supermarket""",40.6123255558208,-80.2263449267354,0
+761e51dd-6949-47cd-ad7c-abcf23b7e6a0,"1192","Duss Ave opp. Harmony Rd","""Ambridge Lumber""",40.6092960005579,-80.2263006702841,0
+aef837ef-82f4-436b-a909-b52fd002dbdd,"1196","Duss Ave opp. 25th St","""Bus Shelter (National Signs)""",40.6060330930968,-80.2262832359244,0
+14079aaa-c0b4-447e-acf0-9bf643ad557c,"1200","Duss Ave at 23rd St ","""Bus Shelter (Industrial Park- Koppel Steel)""",40.6043808522452,-80.2262577549373,0
+8ee79faa-17cf-455b-b972-772c814df504,"1204","Duss Ave at 19th St ","""Buck One Auto Sales (for sale)""",40.6011809766996,-80.2262309328455,0
+4ebb63d1-36dd-466f-bbef-63fdf77c19dd,"1208","Duss Ave at 16th St  ","""Snap Shotz """,40.5991666376094,-80.2262148395905,0
+b78ef518-488b-45aa-a0da-6d22052246c0,"1212","Duss Ave at 14th St","""D & J's""",40.5967057106916,-80.2261906997079,0
+47d4ace8-a8b9-4680-9d3d-ba9683261de9,"1216","Duss Ave at 12th St","""opp. Shear Style""",40.5951433238473,-80.2261947230216,0
+7fe1d97c-c4ba-4453-9f40-4eab2a4b85fc,"1219","11th St at Ambridge Police Dept",""" Ambridge Police Department""",40.5935433860745,-80.2279153602073,0
+736673db-b06d-45bc-8f54-b1d17ac35304,"1223","Merchant St at 11th St ","""Park""",40.592491960078,-80.2303561705563,0
+6aa3046c-f74b-4e3a-8378-495b2998f46f,"2225","Merchant St at 8th St ","""Economy Electric""",40.589322929938,-80.2292926746185,0
+3f01d509-6b86-437e-a26c-15a777750f79,"1232","719 Merchant St ","""Helene's""",40.5884203665507,-80.2287575738882,0
+33f9f547-2060-4fd7-a96a-59bd55d01f85,"2217","Merchant St at 6th St ","""Carole's Corner""",40.5865361146054,-80.2273386852347,0
+4bd7756c-9bdb-4b8f-9da7-b1954ec3b88c,"1240","Merchant St at 4th St ","""Past Kristufek Agency""",40.5837439348545,-80.2252157166729,0
+7afdc339-b284-4d61-a6dd-c7a799b16724,"1244","4th St at Park Rd ","""near Best Hardware""",40.5829862107626,-80.2268679575245,0
+03b688b2-f9bf-4ae6-9f42-7dd209923d79,"1248","Ohio River Blvd opp. Cross St","""opp. Labor Ready""",40.5766964302478,-80.222524119766,0
+62b06dfd-572b-4a23-bce2-ecdad124e3c5,"1252","Ohio River Blvd at Broad St  ","""New Overpass""",40.5679524283381,-80.2132570870672,0
+06aa6b7d-1479-4d46-ba80-35f67b1aece0,"1256","Ohio River Blvd opp. Quaker Village Shop Ctr","""opp. Quaker Village Shopping Center""",40.5579142605015,-80.2047638717153,0
+44479044-c4b3-46b1-bf0d-0a5c9b3008c0,"1260","Ohio River Blvd at Quaker Rd","""Edgeworth Medical Commons Building""",40.5457370308481,-80.1940712448401,0
+8642c19b-adae-4dd4-96d3-467fbc9238af,"1264","Ohio River Blvd at Hazel Ln ","""Edgeworth Village""",40.5439506795377,-80.1927274580436,0
+77e321ba-8d67-458d-aec5-351a14f456f2,"1268","Ohio River Blvd at Walnut St ","""Sewickley Landing Apartments""",40.5373604915953,-80.1860916725452,0
+cf3369d2-02a1-4c89-82bd-e67e19a51366,"1272","Ohio River Blvd at Chestnut St ","""opp. Low Vision Products""",40.5359120986409,-80.1830929626878,0
+f6dd45a6-296c-4299-a41b-02b8c0b97959,"1276","Ohio River Blvd opp. Boundary St ","""opp. Sewickley Country Club""",40.5328463335542,-80.1767066226427,0
+20e3729e-9e2d-49f9-9f92-b01e6ce2142d,"1280","Ohio River Blvd at Walliston Ave ","""Jim Davis Auto Body""",40.5121101744241,-80.1036968889056,0
+1487bcd1-d36d-4df9-84e4-6e829bc30bb0,"1284","Ohio River Blvd at Allegheny Ave ","""Holy Family Institute""",40.5114624209083,-80.1011098981565,0
+7887f3fc-c9fc-4e69-951d-73d40a20bf66,"1288","Ohio River Blvd at  Willow St","""Bus Shelter (Snowy White Laundromat)""",40.510260791198,-80.09453312126,0
+32f0a2fa-6b2e-4b67-9fd4-882e0b9e875b,"1292","Ohio River Blvd at Monitor Ave ","""Port Authority Bus Stop Sign""",40.5015529991122,-80.0753808066476,0
+5b67aa82-2c26-4b83-b712-e3adc8986da4,"1295","Ohio River Blvd at Elizabeth St ","""Rusty Dory Pub""",40.4957567450855,-80.0669600109434,0
+c9dec929-48b6-4d60-90f2-9f50c927b422,"1299","Ohio River Blvd at Riverview Ave ","""Bus Shelter (McDonald's)""",40.4915349478444,-80.0611999667406,0
+c4df59ed-bcf4-4fb3-807d-495a726fe876,"1304","Ohio River Blvd at Kendall Ave ","""WK Motors""",40.486310004372,-80.0540411504532,0
+b0a2fa18-2501-410d-af73-3f90ca8aff91,"1308","Ohio River Blvd at McKees Rocks Bridge","""McKees Rocks Bridge""",40.4789151536772,-80.0430910314972,0
+6797f684-eb0b-4672-a0d2-c78c37464481,"3402","Liberty Ave at Gateway Center","""Four Gateway Center""",40.4413897062176,-80.004911124999,0
+ccb2ed1b-196d-42cc-8f06-ce254a5230c6,"3406","Liberty Ave at Market St","""Bus Shelter """,40.4418818916012,-80.0019258261875,0
+e6b01179-c572-45c3-8eeb-54163ca7b2db,"1332","Liberty Ave at Wood St  (""T"" Station)","""601 Liberty Ave (Wood Street T Station)""",40.4425886537188,-79.9993039667192,0
+42a64698-9bde-4be8-af34-18c6cc2ad5ee,"1338","Liberty Ave at Smithfield St   ","""635 Liberty Ave (Monte Cello's Pizza)""",40.4432940747317,-79.9964970348178,0
+12c0e312-a990-4580-9a94-c4a533b65ceb,"1342","Liberty Ave at William Penn Pl","""980 Liberty AVve (August Wilson Building)""",40.4436239864602,-79.9952699241203,0
+a5a976b6-0a8e-419f-9024-6c7425a21021,"1350","East Busway (Stop A)","""Penn Station -Stop A""",40.4435609545446,-79.9925877149456,0
+2ea20f03-f90c-4e53-89ee-e8c700670cff,"2209","Duss Ave at Beaver Rd","""near intersection with 5th St""",40.5858937255081,-80.224496884614,0
+ccfd7e02-b94b-444f-b09a-b947da93ab71,"2205","Duss Ave at 8th St","""""",40.5895294600445,-80.2248790994214,0
+56d72a19-7d06-4db9-9e62-e1cf15d9b24b,"2201","Duss Ave at 9th St","""opp. Ambridge High School""",40.5911991352558,-80.2251714602215,0
+eddc6104-43f5-43db-8f95-cef6bc345b72,"2193","11th St at Church St ","""Laughlin Memorial Library""",40.5926703269881,-80.2324952323732,0
+bed19c06-7f00-4c5a-9aa2-9b1a47a5e81c,"2189","319 Station St","""Former J & L Structural Building""",40.6194347512385,-80.2431261684374,0
+7aa1f649-ceba-4ef5-b79e-7d38cf9fa7bd,"2181","Franklin Ave at Bank St  (Police Station)","""Aliquippa Police Station""",40.6175665925483,-80.2461624292232,0
+332efb62-615a-46cf-b038-0fc55e96c521,"2177","434 Franklin Ave","""Town Towers""",40.6162482867389,-80.2475491313666,0
+928b8f13-913a-4d26-a063-041446af20ba,"2173","Franklin Ave at Engle St ","""opp. Municipal Parking Lot""",40.6144512065918,-80.2500516325266,0
+79dc0165-01e9-4c83-b43a-a48c4732d9e2,"2169","746 Franklin Ave","""past Demenel's Bar   """,40.6127480037658,-80.2528773398922,0
+7dd63cc5-8c37-4cb1-b327-88c7f1979ce3,"2165","Franklin Ave at Orchard St","""""",40.6145517894359,-80.2589646136144,0
+86bfccfc-9549-4b56-8323-1cdecd7c1409,"2157","Waugaman St at Tyler St ","""opp. Housing Authority Building""",40.6162429223205,-80.2643732884153,0
+b4ba5d83-71f2-4849-aace-59b5e02683d1,"2154","Tyler St at Upland St ","""""",40.6133555241439,-80.2648265817658,0
+cd766906-a9da-4ac8-b110-44b8e0bb32be,"2149","Tyler St at Warnock St ","""""",40.6119245655492,-80.2717708213193,0
+f13c72d1-9bc1-47d3-8a28-30ceb0eace64,"2146","Grand Ave at Tyler Ave","""""",40.6111480659931,-80.2749841079106,0
+5c7ea516-317e-4d63-b577-b68d130fba04,"2142","Main St at 20th St ","""opp. Friendly Federal Credit Union""",40.6053571763848,-80.2750846907547,0
+1b5a9787-4cb0-4741-a75b-8ac678ab44a7,"2138","Main St at 21st St ","""opp. church parking lot""",40.6048958364067,-80.2769595549679,0
+a4079f4b-dea8-49f4-98a7-7199fd7bd5f1,"2134","Main St at Brodhead Rd ","""Allstate, by newspaper machines""",40.604117995746,-80.2801500427812,0
+82b39eef-cb5c-4b83-ac38-66a828a1e441,"2109","Brodhead Rd at Admiral St (Wendy's)","""opp. Aliquippa Shopping Center""",40.6097036963525,-80.2833096851891,0
+e3dbca6b-4daf-4252-9776-a11e74c35535,"2101","Brodhead Rd at Orchard St","""""",40.619702972156,-80.2951489564865,0
+4c9f8f7d-6019-4f79-89d8-5be9cd91e282,"2097","Brodhead Rd at Hoover Blvd","""(bus stop sign leaning)""",40.6233252956465,-80.2998522102745,0
+56decc41-f6c8-4c23-817f-807d15a7bd0f,"2093","Brodhead Rd  opp. Ivy Ln","""Lombardo's Market""",40.6271192805242,-80.306406188393,0
+3abc991f-1ce7-453a-8e84-34a41673c350,"2089","Brodhead Rd at Ridgeview Dr  ","""Vista Plaza""",40.6292087214713,-80.3099467045037,0
+24235629-6579-4e85-b7a5-11124f76b3b0,"2085","Brodhead Rd opp. Charity St","""near Circle K""",40.6419746960387,-80.3103396481478,0
+3aeec2f3-9e7e-4a3f-b052-032ee441274a,"2081","Brodhead Rd opp. Main St","""opp. Center VFD #1""",40.6458987680613,-80.3111241943314,0
+b2d2b0be-49fb-4a9c-9a7a-a906710a4d32,"2077","Brodhead Rd at Center Grange Rd ","""Papa Duke's Catering""",40.6480633108654,-80.3107164985368,0
+e7e7f84d-9f45-4919-bb78-1ce665e41873,"2073","Brodhead Rd at Sherwood Dr   ","""far end of Village Shops""",40.6513490171044,-80.3127469308822,0
+09657685-ab4c-4ad4-b133-443e8ff2e052,"2063","Brodhead Rd at Mulberry Ln","""opp. ESB Bank""",40.655370989762,-80.3153205105854,0
+696246dd-fc79-4494-9757-71c8814b52b4,"2059","Brodhead Rd opp. Bonanni Dr","""3578 Brodhead Rd (Beaver Valley Professional Center ) """,40.6580223535313,-80.3162847647836,0
+8fdb11ec-9b0b-49fe-a666-cd9b1e81ffde,"2055","Brodhead Rd at Lincoln Dr ","""opp. Snowy White Dry Cleaners """,40.6616057849888,-80.3166455219177,0
+d59fb869-16d3-4509-a960-ad0988e30dca,"2051","opposite 3671 Brodhead Rd","""opposite Center Twp Elderly Apartments""",40.664686302226,-80.3156463990001,0
+a122d6c7-196e-4d6f-97f7-e573258b7b6e,"2047","Brodhead Rd at North Branch Rd","""opp. Brodhead Village""",40.6660770276831,-80.3141859361044,0
+0be39dce-7b0a-44dc-a231-a9cd269c9d34,"2040","Wagner Road (First Commonwealth Bank)","""opp. access road @ Target (First Commonwealth Bank)""",40.6799453902212,-80.3111899084562,0
+d50406a6-59b5-4a98-8900-2dadeba0bff8,"2035","Wagner Road (Panera)","""at 4-way stop intersection, near Kohl's""",40.680280666368,-80.3101518935056,0
+2e6ea286-8b38-4930-a6c0-b239b9c3f16a,"2027","Township Market Place (Texas Roadhouse)","""Texas Roadhouse Restaurant""",40.681561421249,-80.3060011748076,0
+12297597-db9f-44c5-81b9-a7f9f1e899c2,"2023","Township Market Place (Vision Works)","""Short St/Stone Quarry Rd- Vision Works""",40.6813911009664,-80.303383338653,0
+470cd18c-ff0a-4597-9e74-df145bc4aa11,"2011","Pennsylvania Ave at 6th St ","""before American Legion""",40.6912401730561,-80.2843262424664,0
+7ed35444-82fc-4b5e-bdd1-7c80c6a38471,"2003","9th St at Indiana Ave ","""opp. Quickies""",40.6931083317464,-80.2809909153575,0
+148c1b6b-f6c8-4852-93cd-608ae93a9a9f,"3405","Liberty Ave at 6th St ","""EQT Plaza/Morton Steakhouse""",40.442032095315,-80.001589208936,0
+75f050cf-bdb5-4f33-a79b-7a5e94235c6f,"3424","Grant St at Liberty Ave (Federal Bldg)","""1000 Grant St (Federal Office Building- Backside)""",40.4432793225812,-79.9942386146926,0
+8ee25ec3-02ff-42a7-a961-a2d98a216adb,"3428","Grant St at Strawberry Way ","""AT&T Bldg - Opposite US Steel Bldg""",40.4415010178984,-79.9954295155662,0
+e4239593-82fb-4141-a813-e45e055d68d7,"3432","Grant St at Oliver Ave","""531 Grant St (Brueggers Bagels)""",40.4401049280229,-79.9963307378489,0
+6b76d573-beef-42a7-ab2a-31c6d90ea824,"3436","Grant St at 5th Ave","""501 Grant St (Union Trust Building)""",40.4394907021219,-79.9967089293426,0
+24af285d-9e5c-445d-b720-5339760fd4ed,"3440","Grant St at 4th Ave","""Parking Lot near Central Blood Bank""",40.4382300638098,-79.9975994227886,0
+339ac78d-7387-4bc6-8a93-3996908d51e4,"3444","Blvd of the Allies at Cherry Way","""""",40.4375997446537,-79.999684840422,0
+5fb3ea62-57cd-4b55-bc3f-9bfe572970f2,"3448","Blvd of the Allies at Wood St","""Point Park College""",40.4383883141511,-80.0018386543893,0
+32fc9880-5854-44c3-aa90-80507b956d95,"3452","Blvd of the Allies at Stanwix St","""Lawless Hall""",40.4395443463054,-80.0047944488999,0
+337ccfc5-f98a-4ba4-8942-ee171e448c8e,"2185","Franklin Ave opp. Kiehl St","""""",40.6190511953265,-80.2442822005917,0
+f895b5cd-870a-4600-9322-b9b7bec5b713,"2129","Brodhead Rd at Sheffield Rd ","""A-Plus Mini Mart""",40.6062516931445,-80.2817513216586,0
+677e144e-cead-47dc-96f7-ae5260f30218,"2105","Brodhead Rd at Caler St  ","""opp. Hospital Drive""",40.6121445067015,-80.28429807927,0
